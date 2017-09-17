@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Site institucional</title>
+    <title>EMAG2</title>
     <link rel="stylesheet" href="assets/css/reset.css" type="text/css">
     <link rel="stylesheet" href="assets/css/bootstrap4/bootstrap-reboot.css" type="text/css">
     <link rel="stylesheet" href="assets/css/bootstrap4/bootstrap.css" type="text/css">

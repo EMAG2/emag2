@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset="UTF-8">
-    <title>Site institucional</title>
+    <title>EMAG2</title>
 
     <script src="assets/js/jquery/jquery-3.2.1.min.js" type="text/javascript"></script>
     <script src="assets/labelholder/labelholder.min.js" type="text/javascript"></script>
