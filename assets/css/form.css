@@ -1,0 +1,25 @@
+.form-control {
+    height: 70px;
+    border-radius: 50px;
+    font-size: 0.8em;
+}
+
+label {
+    font-size: 0.6em;
+    color: #9ba0a3;
+    position: fixed;
+    margin-bottom: -50px;
+    padding-bottom: -30px;
+    margin-left: 31px;
+}
+
+.btn {
+    height: 70px;
+    border-radius: 50px;
+    font-size: 0.8em;
+    cursor: pointer;
+}
+
+.padding-form {
+    padding: 0px 0px 0px 30px;
+}

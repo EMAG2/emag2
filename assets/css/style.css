@@ -1,0 +1,131 @@
+article h1, h2, h3, h4, h5, h6 {
+    color: #3d3cd8;
+    letter-spacing: -1px;
+}
+
+article h4 {
+    font-size: 20px;
+    color: #1b1e21;
+}
+
+article h2 {
+    font-size: 16pt;
+    font-weight: 700;
+}
+
+article p {
+    line-height: 24pt;
+    margin-bottom: 40px;
+}
+
+article .top {
+    padding: 50px 0px 50px 0px;
+}
+
+.content-grid {
+    margin: -1px;
+    border: 1px solid #ececec;
+    padding: 50px 0px 50px 0px;
+}
+
+.grid {
+    border: 1px solid #ececec;
+    border-radius: 5px 5px 0 0;
+}
+
+.btn {
+    border-radius: 50px !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    padding-right: 40px;
+    cursor: pointer;
+}
+
+nav {
+    height: 110px;
+}
+
+.navbar-light {
+    background-color: transparent !important;
+}
+
+.language-menu {
+    float: left;
+    margin-left: 40px;
+}
+
+main {
+    margin: 20px 0px 0px 0px;
+}
+
+.footer {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: #f2f2f2;
+}
+
+footer .row {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+footer a {
+    font-size: 0.8em;
+}
+
+footer h1 {
+    font-size: 1em;
+}
+
+footer ul li {
+    margin-bottom: 10px;
+    border-bottom: 1px solid #e0e8e5;
+}
+
+.sponsors-icon {
+    font-size: 50pt;
+}
+
+.content-grid form {
+    padding: 30px;
+}
+
+.btn-form {
+    height: 70px;
+    border-radius: 50px;
+    font-size: 0.8em;
+    cursor: pointer;
+}
+
+.btn {
+    height: 45px;
+    border-radius: 30px !important;
+    font-size: 0.8em;
+    cursor: pointer;
+}
+
+textarea {
+    height: 243px !important;
+    border-radius: 10px !important;
+    padding: 30px !important;
+}
+
+.btn-success {
+    background-color: #7ac943;
+    border: 0;
+}
+
+.btn-success:hover {
+    background-color: #95e544;
+    border: 0;
+}
+
+.help-sidebar {
+    border-left: 1px solid #e0e8e5;
+}
+
+.help-sidebar ul li {
+    border-bottom: 1px solid #e0e8e5;
+    padding-bottom: 20px;
+}
