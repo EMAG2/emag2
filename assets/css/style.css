@@ -103,6 +103,7 @@ footer ul li {
     border-radius: 30px !important;
     font-size: 0.8em;
     cursor: pointer;
+    line-height: 22px;
 }
 
 textarea {
