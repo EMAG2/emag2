@@ -13,7 +13,6 @@
         <section class="content-grid">
             <form action="#">
                 <div class="row">
-
                     <div class="col-4">
                         <div class="form-group labelholder" data-label="name">
                             <label for="name" hidden>Name</label>
@@ -36,18 +35,16 @@
                             <textarea class="form-control scrollbar" id="style-2" name="message" rows="10"
                                       placeholder="Enter your message"></textarea>
                         </div>
-
                         <div class="row float-right">
                             <div class="col-12">
                                 <div class="form-group labelholder" data-label="Reset">
-                                    <input type="reset" class="btn btn-warning btn-form" style="color: #e0e8e5"
+                                    <input type="reset" class="btn btn-dark btn-form" style="color: #e0e8e5"
                                            value="Reset">
                                     <input type="submit" class="btn btn-success btn-form" value="Send message">
                                 </div>
                             </div>
                         </div>
                     </div>
-
                     <div class="col-3 help-sidebar">
                         <section class="ml-5">
                             <article class="">
@@ -65,34 +62,16 @@
                                     </ul>
                                 </div>
                             </article>
-
                         </section>
                     </div>
-
                 </div>
-
-
             </form>
     </div>
     </section>
 
+    <!--Collaborative section-->
+    <?php include 'includes/collaborative.php' ?>
 
-    <!--    Collaborative section-->
-    <section>
-        <article class="content-grid p-xl-5">
-            <h5>And did you have that collaborative spirit?</h5>
-            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut
-                laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation
-                ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure
-                dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla
-                facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril
-                delenit augue duis dolore te feugait nulla facilisi.</p>
-            <div class="mt-4 mb-5">
-                <button class="btn btn-outline-primary">Become a employee</button>
-                <button class="btn btn-primary">Become a sponsor</button>
-            </div>
-        </article>
-    </section>
     </div>
 
 
