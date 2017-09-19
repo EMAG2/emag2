@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="205b063a-d503-4888-8dcf-831fc16b3e03" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/about.php" afterPath="$PROJECT_DIR$/views/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/error.php" afterPath="$PROJECT_DIR$/views/error.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/home.php" afterPath="$PROJECT_DIR$/views/home.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/template.php" afterPath="$PROJECT_DIR$/views/template.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/templateLoginAndRegister.php" afterPath="$PROJECT_DIR$/views/templateLoginAndRegister.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -272,7 +267,7 @@
       <workItem from="1505598684346" duration="13000" />
       <workItem from="1505598734393" duration="57708000" />
       <workItem from="1505660019844" duration="1930000" />
-      <workItem from="1505708124771" duration="2625000" />
+      <workItem from="1505708124771" duration="2652000" />
     </task>
     <task id="LOCAL-00001" summary="Adding front-end project.">
       <created>1505655308474</created>
@@ -337,11 +332,18 @@
       <option name="project" value="LOCAL" />
       <updated>1505710754290</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Atualizando páginas e adicionando módulos do diretório include.">
+      <created>1505710782959</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1505710782959</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62372000" />
+    <option name="totallyTimeSpent" value="62399000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -407,7 +409,8 @@
     <MESSAGE value="Adicionando a página de confirmação de registro de um usuário." />
     <MESSAGE value="Consertando erro no botão com line-height." />
     <MESSAGE value="Controller da página de confirmação." />
-    <option name="LAST_COMMIT_MESSAGE" value="Controller da página de confirmação." />
+    <MESSAGE value="Atualizando páginas e adicionando módulos do diretório include." />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando páginas e adicionando módulos do diretório include." />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">

@@ -8,7 +8,7 @@ O princípal objetivo deste projeto será organizar mais de 1.6 GB de dados (Lat
 
 ## Instalação
 
-<img src="/assets/img/slide.png" />
+<img src="/assets/img/slide.jpg" />
 
 A Wiki é alimentada e atualizada constantemente. Então, para instalar o projeto em sua máquina, basta [clicar aqui](https://github.com/EMAG2/emag2/wiki/Instala%C3%A7%C3%A3o).
 
