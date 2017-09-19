@@ -7,6 +7,9 @@ Esses mapas de anomalias oferecem informações sobre a estrutura subterrânea e
 O princípal objetivo deste projeto será organizar mais de 1.6 GB de dados (Latitude, Longitude e Valor da anomalia magnética) em um DBMS (Sistema de Banco de Dados, do inglês Database Mannager System). Posteriormente, será implementado um sistema web onde o usuário final pode realizar suas consultas e montar a sua grid de forma totalmente interativa das regiões de interesse.
 
 ## Instalação
+
+<img src="/assets/img/slide.png" />
+
 A Wiki é alimentada e atualizada constantemente. Então, para instalar o projeto em sua máquina, basta [clicar aqui](https://github.com/EMAG2/emag2/wiki/Instala%C3%A7%C3%A3o).
 
 ## Creditos
