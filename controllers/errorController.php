@@ -6,7 +6,7 @@
  * Time: 01:50
  */
 
-class errorController extends Controller
+class errorController extends controller
 {
     public function __construct()
     {

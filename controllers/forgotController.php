@@ -6,7 +6,7 @@
  * Time: 01:25
  */
 
-class forgotController extends Controller
+class forgotController extends controller
 {
     public function __construct()
     {
