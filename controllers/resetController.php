@@ -6,7 +6,7 @@
  * Time: 01:38
  */
 
-class resetController extends controller
+class resetController extends Controller
 {
     public function __construct()
     {

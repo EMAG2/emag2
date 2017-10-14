@@ -6,7 +6,7 @@
  * Time: 01:21
  */
 
-class confirmRegisterController extends controller
+class confirmRegisterController extends Controller
 {
     public function __construct()
     {

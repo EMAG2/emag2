@@ -6,7 +6,7 @@
  * Time: 21:56
  */
 
-class Chamados extends model
+class Chamados extends Model
 {
 
     public function getChamados()

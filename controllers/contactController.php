@@ -6,7 +6,7 @@
  * Time: 03:33
  */
 
-class contactController extends controller
+class contactController extends Controller
 {
     public function __construct()
     {

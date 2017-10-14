@@ -6,7 +6,7 @@
  * Time: 02:44
  */
 
-class aboutController extends controller
+class aboutController extends Controller
 {
     public function __construct()
     {

@@ -6,7 +6,7 @@
  * Time: 22:05
  */
 
-class loginController extends controller
+class loginController extends Controller
 {
     public function __construct()
     {
